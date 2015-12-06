@@ -11,5 +11,5 @@ destiny = "order"
 
 if __name__ == "__main__":
 	cn.termsAssociation(origin, destiny, 20, "en", True)
-	#lookup(base_url, language, origin, True)
-	#relation(base_url, rel, origin)
+	#cn.lookup(language, origin, True)
+	#cn.relation(rel, origin, True)
